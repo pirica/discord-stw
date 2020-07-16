@@ -1,0 +1,10 @@
+﻿  Discord.cpp
+  connection_win.cpp
+  discord_register_win.cpp
+  discord_rpc.cpp
+  dllmain.cpp
+  rpc_connection.cpp
+  serialization.cpp
+  FortniteSTWFaker.cpp
+  Generating Code...
+  FortniteSTWFaker.vcxproj -> C:\mythings\FortniteSTWFaker\FortniteSTWFaker\Debug\FortniteSTWFaker.exe
